@@ -28,6 +28,7 @@ a:focus-visible{outline:3px solid var(--blue);outline-offset:5px}
 .icon{width:44px;height:44px;flex:0 0 44px;display:grid;place-items:center;overflow:hidden;border-radius:10px;background:transparent}
 .icon img{display:block;width:44px;height:44px;object-fit:contain}
 .icon img[src$="observer-icon.png"]{transform:scale(1.25)}
+.icon img[src$="oboard-icon.png"]{transform:scale(1.25)}
 .project h3{font-size:22px;line-height:28px;font-weight:600;letter-spacing:-.4px;margin:0;text-wrap:balance}
 .meta{font-size:12px;line-height:18px;color:#7f8791;margin-top:2px}
 .project p{max-width:65ch;font-size:16px;line-height:26px;color:#57616c;margin:16px 0 24px;text-wrap:pretty}
